@@ -11,15 +11,21 @@
   "dependencies": {
     "@expo/config": "^8.1.1",
     "@expo/metro-config": "^0.10.7",
-    "expo": "~50.0.11",
+    "expo": "^50.0.13",
     "expo-status-bar": "~1.11.1",
+    "nanoid": "^5.0.6",
+    "prop-types": "^15.8.1",
     "react": "18.2.0",
     "react-dom": "^18.2.0",
     "react-native": "0.73.4",
-    "react-native-web": "~0.19.6"
+    "react-native-web": "^0.19.10",
+    "styled-components": "^5.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
+  },
+  "resolutions": {
+    "**/nanoid": "3.3.5"
   },
   "private": true
 }
