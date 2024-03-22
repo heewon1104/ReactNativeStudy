@@ -3,4 +3,5 @@ export const theme = {
   itemBackground: '#333333',
   main: '#778bdd',
   done: '#666666',
+  text: '#ffffff',
 };
