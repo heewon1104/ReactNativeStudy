@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "projectname",
-    "slug": "projectname",
+    "name": "react-native-context",
+    "slug": "react-native-context",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#778bdd"
+      "backgroundColor": "#ffffff"
     },
     "assetBundlePatterns": [
       "**/*"
